@@ -25,7 +25,7 @@ CB_THREADS=10
 RTUSER=`id |cut -d"(" -f2 | cut -d ")" -f1`
 CBUSER=couchbase
 DBU=Administrator
-DBP=Admin123456
+DBP=******
 
 FBU_DAY=Sat
 
